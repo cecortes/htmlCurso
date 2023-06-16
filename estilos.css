@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #064185;
+  color: aliceblue;
+}
+
+.titulo {
+  text-align: center;
+  padding: 100px 500px 100px 500px;
+  background: black;
+}
+
+h1 {
+  background: burlywood;
+  margin: 30px;
+  padding: 30px;
+}
